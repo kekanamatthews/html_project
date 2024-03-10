@@ -1,0 +1,30 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: grid;
+    /* 
+        grid-template-rows: 20% 40% 20%;
+     */ 
+     grid-template-rows: 20% 40% 20%;
+}
+
+.header.container {
+}
+
+.main.container {
+
+}
+
+.footer.container {
+
+}
